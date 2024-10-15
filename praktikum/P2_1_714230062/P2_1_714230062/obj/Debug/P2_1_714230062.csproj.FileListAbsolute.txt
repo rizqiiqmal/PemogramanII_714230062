@@ -1,0 +1,7 @@
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\bin\Debug\P2_1_714230062.exe.config
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\bin\Debug\P2_1_714230062.exe
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\bin\Debug\P2_1_714230062.pdb
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\obj\Debug\P2_1_714230062.csproj.AssemblyReference.cache
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\obj\Debug\P2_1_714230062.csproj.CoreCompileInputs.cache
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\obj\Debug\P2_1_714230062.exe
+D:\rzqiiqmal_\semester 3\PBO\P2_1_714230062\P2_1_714230062\obj\Debug\P2_1_714230062.pdb
