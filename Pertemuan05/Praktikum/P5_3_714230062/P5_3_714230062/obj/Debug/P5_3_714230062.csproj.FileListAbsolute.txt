@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\bin\Debug\P5_3_714230062.exe.config
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\bin\Debug\P5_3_714230062.exe
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\bin\Debug\P5_3_714230062.pdb
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.Form1.resources
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.Properties.Resources.resources
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.exe
+C:\Users\asus\source\repos\P5_3_714230062\P5_3_714230062\obj\Debug\P5_3_714230062.pdb
