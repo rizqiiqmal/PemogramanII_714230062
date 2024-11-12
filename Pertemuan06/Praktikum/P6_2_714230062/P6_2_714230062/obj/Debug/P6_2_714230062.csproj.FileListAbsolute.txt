@@ -1,0 +1,5 @@
+D:\rzqiiqmal_\semester 3\PBO\PBO\PemogramanII_714230062\Pertemuan06\Praktikum\P6_2_714230062\P6_2_714230062\obj\Debug\P6_2_714230062.csproj.AssemblyReference.cache
+D:\rzqiiqmal_\semester 3\PBO\PBO\PemogramanII_714230062\Pertemuan06\Praktikum\P6_2_714230062\P6_2_714230062\obj\Debug\P6_2_714230062.Form1.resources
+D:\rzqiiqmal_\semester 3\PBO\PBO\PemogramanII_714230062\Pertemuan06\Praktikum\P6_2_714230062\P6_2_714230062\obj\Debug\P6_2_714230062.Properties.Resources.resources
+D:\rzqiiqmal_\semester 3\PBO\PBO\PemogramanII_714230062\Pertemuan06\Praktikum\P6_2_714230062\P6_2_714230062\obj\Debug\P6_2_714230062.csproj.GenerateResource.cache
+D:\rzqiiqmal_\semester 3\PBO\PBO\PemogramanII_714230062\Pertemuan06\Praktikum\P6_2_714230062\P6_2_714230062\obj\Debug\P6_2_714230062.csproj.CoreCompileInputs.cache
